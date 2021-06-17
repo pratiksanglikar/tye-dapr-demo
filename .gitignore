@@ -1,0 +1,9 @@
+# Seq (logging) assets
+.logs
+
+# Tye run assets
+.tye/
+
+# .NET build assets
+bin/
+obj/
